@@ -1,0 +1,11 @@
+[33mcommit 2893d7ee618e31f0945fb40001c4e05ef9ed0203[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Salman <spopal246@gmail.com>
+Date:   Tue May 19 17:42:38 2026 -0400
+
+    Connect app to GitHub
+
+[33mcommit b21e572237e02031b89ff3e7ea54256decfee30a[m
+Author: Salman <spopal246@gmail.com>
+Date:   Sat May 16 11:53:22 2026 -0400
+
+    Initialize project using Create React App
